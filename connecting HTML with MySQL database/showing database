@@ -1,5 +1,5 @@
 <!-- code to connect html with php-->
-<!-- By: M.Taleb-->
+<!-- By ENG: Mustafa Taleb-->
 <!DOCTYPE html>
 <html>
 <head>
@@ -26,7 +26,7 @@ border-radius: 60%
 </style>
 </head>
 <body>
-<form action='conf/task-15.php' method='POST' target="_blank">
+<form action='conf/Inserting data to database.php' method='POST' target="_blank">
 
 <div style="border:solid 5px;width:400px;margin: 0 auto;background-color:blue;height:auto">
 
